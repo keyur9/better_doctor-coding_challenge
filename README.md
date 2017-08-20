@@ -30,8 +30,13 @@
 
 ![Pytest-Report.png](./Pytest-Report.png)
 
-## Continuous Integration
+## Continuous Integration and Code Coverage
+
+* Using [Travis CI](https://travis-ci.org/) for Continous integration
+* Using [Codecov](https://codecov.io/) for Code Coverage
 
 ## Deployment using Docker
+
+
 
 ## Scaling using Docker Swarm

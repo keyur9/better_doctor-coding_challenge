@@ -7,7 +7,5 @@ install:
 script:
   - python app/main.py
 after_success:
-  - coverage run app/main.py
-  - coverage run app/helpers.py
   - codecov
   - bash <(curl -s https://codecov.io/bash)
