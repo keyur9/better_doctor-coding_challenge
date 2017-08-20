@@ -1,0 +1,4 @@
+pandas
+geocoder
+pytest
+pytest-html
