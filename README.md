@@ -37,6 +37,6 @@
 
 ## Deployment using Docker
 
+Install Docker before you proceed with the following steps:
 
-
-## Scaling using Docker Swarm
+    docker build -t betterdoctor . && docker run -it betterdoctor
